@@ -18,3 +18,4 @@ basics-01-starting-code folder:
 - CSS Dynamic classes (also array syntax)
 
 ## References
+https://www.udemy.com/course/vuejs-2-the-complete-guide/
