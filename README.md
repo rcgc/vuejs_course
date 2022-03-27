@@ -1,7 +1,7 @@
 # vuejs_course
 ## Concepts
 
-basics-01-starting-code folder:
+Monster slayer:
 - Vue App instance
 - Interplation
 - Data binding
@@ -16,6 +16,14 @@ basics-01-starting-code folder:
 - v-on
 - Dynamic Styling
 - CSS Dynamic classes (also array syntax)
+- vi-if
+- vi-else
+- vi-else-if
+- v-show
+- v-for
+- conditional rendering
+- lists & keys
+- list rendering
 
 ## References
 https://www.udemy.com/course/vuejs-2-the-complete-guide/
